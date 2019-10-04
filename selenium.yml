@@ -1,6 +1,6 @@
 ---
 - name: prepare selenium
-  hosts: selenium-servers
+  hosts: Ubuntu
   user: root
   sudo: yes
   roles:
